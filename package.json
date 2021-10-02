@@ -1,0 +1,30 @@
+{
+  "name": "acc-changer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0",
+    "prompt": "^1.2.0",
+    "robot-cmd": "^1.0.6",
+    "steam-totp": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": "index.js",
+  "pkg": {
+    "scripts": [],
+    "assets": [
+      "node_modules/robot-cmd/lib/**"
+    ],
+    "targets": [
+      "node14-win-x64"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

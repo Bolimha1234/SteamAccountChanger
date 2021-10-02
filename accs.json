@@ -1,0 +1,14 @@
+{
+    "accounts": {
+        "SteamAccount1": {
+            "password": "Password1",
+            "shared_secret": "Shared_secret if you don't have please delete this line. // Shared_secret se não tiver eleminar a linha inteira.",
+            "number": 1
+        },
+        "SteamAccount2": {
+            "password": "Password2",
+            "shared_secret": "Shared_secret if you don't have please delete this line. // Shared_secret se não tiver eleminar a linha inteira.",
+            "number": 2
+        }
+    }
+}
